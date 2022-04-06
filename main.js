@@ -1,6 +1,6 @@
-const div = document.getElementById('adinfo');
+const divadd = document.getElementById('adinfo');
 var domainname = window.location.host;
-div.innerHTML = '<a href="http://download.viettechkey.com/file_download/FirefoxSetup.rar"><img src="http://img.viettechkey.com/icon_download/ff.png" height="40"></a>
+divadd.innerHTML = '<a href="http://download.viettechkey.com/file_download/FirefoxSetup.rar"><img src="http://img.viettechkey.com/icon_download/ff.png" height="40"></a>
 <a href="http://download.viettechkey.com/file_download/ChromeSetup.rar"><img src="http://img.viettechkey.com/icon_download/chrome.png" height="40"></a>
 <a href="http://download.viettechkey.com/file_download/IDM.zip"><img src="http://img.viettechkey.com/icon_download/idm.png" height="40"></a>
 <a href="http://download.viettechkey.com/file_download/unikey42RC4.zip"><img src="http://img.viettechkey.com/icon_download/unikey.jpg" height="40"></a>
