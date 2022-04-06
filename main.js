@@ -1,6 +1,6 @@
 const div = document.getElementById('adinfo');
 var domainname = window.location.host;
-div.innerHTML = '<a href="http://'+domainname+'"><img src="http://img.viettechkey.com/icon_download/pdf.png" height="40"></a>';
+div.innerHTML = '<a href="http://linkdomain.com?ref='+domainname+'"><img src="http://img.viettechkey.com/icon_download/pdf.png" height="40"></a>';
 
 function httpGet(theUrl)
 {
